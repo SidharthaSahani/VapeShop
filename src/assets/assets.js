@@ -82,7 +82,7 @@ export const products = [
         price: 220,
         image: [p_img3],
         category: "Kids",
-        subCategory: "Topwear",
+        subCategory: "Winterwear",
         sizes: ["S", "L", "XL"],
         date: 1716234545448,
         bestseller: true
@@ -106,7 +106,7 @@ export const products = [
         price: 130,
         image: [p_img5],
         category: "Women",
-        subCategory: "Topwear",
+        subCategory: "Bottomwear",
         sizes: ["M", "L", "XL"],
         date: 1716622345448,
         bestseller: true
