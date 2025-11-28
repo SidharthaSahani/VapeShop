@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { ShopContext } from '../context/ShopContext'
-import e from 'cors';
+// import e from 'cors';
 import { assets } from '../assets/assets';
 import { useLocation } from 'react-router-dom';
 
