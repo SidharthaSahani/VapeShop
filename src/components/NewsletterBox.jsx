@@ -4,7 +4,7 @@ const onSummitHandeler = (event) => {
     event.preventDeafult();
 }
 
-const Newsletterbox = () => {
+const NewsletterBox = () => {
   return (
       <div className='text-center'>
           <p className='text-2xl font-medium text-gray-400'>Suscribe now & get 20% off</p>
@@ -19,4 +19,4 @@ const Newsletterbox = () => {
   )
 }
 
-export default Newsletterbox
+export default NewsletterBox;
